@@ -1,0 +1,18 @@
+﻿  5laba10slugashii.cpp
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(19): note: использование предварительно скомпилированного заголовка
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(51): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(55): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(58): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(63): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(66): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(114): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\elizavetametla\source\repos\5laba10slugashii\5laba10slugashii\5laba10slugashii.cpp(154): warning C4244: =: преобразование "int" в "float", возможна потеря данных

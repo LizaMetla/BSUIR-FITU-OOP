@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  7laba4varik.cpp
+c:\users\elizavetametla\source\repos\7laba4varik\7laba4varik\7laba4varik.cpp(105): warning C4715: list<int>::find_element: значение возвращается не при всех путях выполнения
+c:\users\elizavetametla\source\repos\7laba4varik\7laba4varik\7laba4varik.cpp(105): warning C4715: list<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::find_element: значение возвращается не при всех путях выполнения
+  7laba4varik.vcxproj -> C:\Users\elizavetametla\source\repos\7laba4varik\Debug\7laba4varik.exe

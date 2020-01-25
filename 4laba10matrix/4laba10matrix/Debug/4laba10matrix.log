@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  4laba10matrix.cpp
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(198): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(81): warning C4715: Matrix::operator+: значение возвращается не при всех путях выполнения
+c:\users\elizavetametla\source\repos\4laba10matrix\4laba10matrix\4laba10matrix.cpp(175): warning C4715: Matrix_square::operator+: значение возвращается не при всех путях выполнения
+  4laba10matrix.vcxproj -> C:\Users\elizavetametla\source\repos\4laba10matrix\Debug\4laba10matrix.exe

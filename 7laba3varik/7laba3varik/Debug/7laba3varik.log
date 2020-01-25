@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  7laba3varik.cpp
+c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(6): note: использование предварительно скомпилированного заголовка
+c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(125): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(193): note: выполняется компиляция ссылки на экземпляр шаблон функции "int vector<int>::func1(void)"
+  c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(183): note: выполняется компиляция ссылки на экземпляр шаблон класс "vector<int>"
+c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(127): warning C4101: k: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\7laba3varik\7laba3varik\7laba3varik.cpp(127): warning C4101: j: неиспользованная локальная переменная
+  7laba3varik.vcxproj -> C:\Users\elizavetametla\source\repos\7laba3varik\Debug\7laba3varik.exe

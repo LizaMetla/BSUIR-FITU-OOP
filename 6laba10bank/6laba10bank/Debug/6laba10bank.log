@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  6laba10bank.cpp
+c:\users\elizavetametla\source\repos\6laba10bank\6laba10bank\6laba10bank.cpp(255): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\elizavetametla\source\repos\6laba10bank\6laba10bank\6laba10bank.cpp(180): warning C4715: Buyer::pokupka: значение возвращается не при всех путях выполнения
+  6laba10bank.vcxproj -> C:\Users\elizavetametla\source\repos\6laba10bank\Debug\6laba10bank.exe

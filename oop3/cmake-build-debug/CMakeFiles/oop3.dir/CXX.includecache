@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elizavetametla/Desktop/BSUIR-IEF/OAIP/oop3/main.cpp
+my_string.h
+/Users/elizavetametla/Desktop/BSUIR-IEF/OAIP/oop3/my_string.h
+iostream
+-
+cstring
+-
+
+/Users/elizavetametla/Desktop/BSUIR-IEF/OAIP/oop3/my_string.h
+iostream
+-
+

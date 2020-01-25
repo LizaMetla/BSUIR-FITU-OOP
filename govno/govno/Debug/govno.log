@@ -1,0 +1,8 @@
+﻿  govno.cpp
+c:\users\elizavetametla\source\repos\govno\govno\govno.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\elizavetametla\source\repos\govno\govno\govno.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\elizavetametla\source\repos\govno\govno\govno.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\elizavetametla\source\repos\govno\govno\govno.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\elizavetametla\source\repos\govno\govno\govno.cpp(3): note: использование предварительно скомпилированного заголовка
+c:\users\elizavetametla\source\repos\govno\govno\govno.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  govno.vcxproj -> C:\Users\elizavetametla\source\repos\govno\Debug\govno.exe

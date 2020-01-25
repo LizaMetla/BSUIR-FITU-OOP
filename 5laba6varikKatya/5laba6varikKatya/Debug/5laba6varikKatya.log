@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  5laba6varikKatya.cpp
+c:\users\elizavetametla\source\repos\5laba6varikkatya\5laba6varikkatya\5laba6varikkatya.cpp(106): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  5laba6varikKatya.vcxproj -> C:\Users\elizavetametla\source\repos\5laba6varikKatya\Debug\5laba6varikKatya.exe

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elizavetametla/Desktop/BSUIR-IEF/OAIP/oop2/main.cpp
+iostream
+-
+cmath
+-
+cstdio
+-
+stdio.h
+-
+stdlib.h
+-
+array
+-
+vector
+-
+iomanip
+-
+clocale
+-
+
